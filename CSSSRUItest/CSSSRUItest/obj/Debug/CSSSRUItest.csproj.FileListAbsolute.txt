@@ -1,0 +1,11 @@
+c:\users\sergey.olinichenko\documents\visual studio 2013\Projects\CSSSRUItest\CSSSRUItest\obj\Debug\CSSSRUItest.csprojResolveAssemblyReference.cache
+c:\users\sergey.olinichenko\documents\visual studio 2013\Projects\CSSSRUItest\CSSSRUItest\bin\Debug\CSSSRUItest.dll.config
+c:\users\sergey.olinichenko\documents\visual studio 2013\Projects\CSSSRUItest\CSSSRUItest\bin\Debug\CSSSRUItest.dll
+c:\users\sergey.olinichenko\documents\visual studio 2013\Projects\CSSSRUItest\CSSSRUItest\bin\Debug\CSSSRUItest.pdb
+c:\users\sergey.olinichenko\documents\visual studio 2013\Projects\CSSSRUItest\CSSSRUItest\bin\Debug\nunit.framework.dll
+c:\users\sergey.olinichenko\documents\visual studio 2013\Projects\CSSSRUItest\CSSSRUItest\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\sergey.olinichenko\documents\visual studio 2013\Projects\CSSSRUItest\CSSSRUItest\bin\Debug\WebDriver.dll
+c:\users\sergey.olinichenko\documents\visual studio 2013\Projects\CSSSRUItest\CSSSRUItest\bin\Debug\nunit.framework.xml
+c:\users\sergey.olinichenko\documents\visual studio 2013\Projects\CSSSRUItest\CSSSRUItest\bin\Debug\WebDriver.xml
+c:\users\sergey.olinichenko\documents\visual studio 2013\Projects\CSSSRUItest\CSSSRUItest\obj\Debug\CSSSRUItest.dll
+c:\users\sergey.olinichenko\documents\visual studio 2013\Projects\CSSSRUItest\CSSSRUItest\obj\Debug\CSSSRUItest.pdb
